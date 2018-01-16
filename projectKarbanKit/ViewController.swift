@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         lbltext.text = "NewFile \n me"
         lbltext.backgroundColor = UIColor.green
         // Do any additional setup after loading the view, typically from a nib.
