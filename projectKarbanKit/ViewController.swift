@@ -12,7 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        lbltext.text = "Hello \n me"
         // Do any additional setup after loading the view, typically from a nib.
     }
     @IBOutlet weak var lbltext: UILabel!
